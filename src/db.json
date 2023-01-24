@@ -1,10 +1,39 @@
 {
   "cubes": [
     {
+      "id": "0eda9870-c949-4cee-be01-b91e40435ae0",
       "name": "cube 1",
       "description": "desc 1",
-      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.vP5UFn33QO8aN5y-Jhl7OgAAAA%26pid%3DApi&f=1&ipt=8d1f232afdbcaca7dff44a4e2c9229ac58b4f9b39e8d3aa57a10c57dd84cb246&ipo=images",
-      "difficultyLevel": "1"
+      "imageUrl": "https://ae01.alicdn.com/kf/HTB1CSddXRxRMKJjy0Fdq6yifFXa6/Gan-356-Air-SM-3x3-Black-Magic-cube-GAN-Air-SM-Magnetic-3x3x3-Speed-cube-gans.jpg",
+      "difficultyLevel": "3"
+    },
+    {
+      "id": "0eda9870-c949-4cee-be01-b91e40435ae0",
+      "name": "cube 1",
+      "description": "desc 1",
+      "imageUrl": "https://ae01.alicdn.com/kf/HTB1CSddXRxRMKJjy0Fdq6yifFXa6/Gan-356-Air-SM-3x3-Black-Magic-cube-GAN-Air-SM-Magnetic-3x3x3-Speed-cube-gans.jpg",
+      "difficultyLevel": "3"
+    },
+    {
+      "id": "0eda9870-c949-4cee-be01-b91e40435ae0",
+      "name": "cube 1",
+      "description": "desc 1",
+      "imageUrl": "https://ae01.alicdn.com/kf/HTB1CSddXRxRMKJjy0Fdq6yifFXa6/Gan-356-Air-SM-3x3-Black-Magic-cube-GAN-Air-SM-Magnetic-3x3x3-Speed-cube-gans.jpg",
+      "difficultyLevel": "3"
+    },
+    {
+      "id": "0eda9870-c949-4cee-be01-b91e40435ae0",
+      "name": "cube 1",
+      "description": "desc 1",
+      "imageUrl": "https://ae01.alicdn.com/kf/HTB1CSddXRxRMKJjy0Fdq6yifFXa6/Gan-356-Air-SM-3x3-Black-Magic-cube-GAN-Air-SM-Magnetic-3x3x3-Speed-cube-gans.jpg",
+      "difficultyLevel": "3"
+    },
+    {
+      "id": "99ad7206-4186-4731-8139-c8173451763a",
+      "name": " new cube",
+      "description": "pretty standard one",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.ddETFLzgBi2ADZlRSUm4rwAAAA%26pid%3DApi&f=1&ipt=2b6b64ea72e1cbbe33b9180eb04452559b4ef9ddc3d171095d8281f4097d0d3c&ipo=images",
+      "difficultyLevel": "3"
     }
   ]
 }

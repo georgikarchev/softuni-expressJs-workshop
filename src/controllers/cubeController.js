@@ -10,10 +10,13 @@ exports.getCreateCube = (req, res) => {
 exports.postCreateCube = async (req, res) => {
   const { name, description, imageUrl, difficultyLevel } = req.body;
   //save cube
-  //   let cube = new Cube(req.body);
   let cube = new Cube(name, description, imageUrl, difficultyLevel);
   await Cube.save(cube);
 
   //redirect
   res.redirect("/");
+};
+
+exports.getCube = (req, res) => {
+  res.render("details");
 };
