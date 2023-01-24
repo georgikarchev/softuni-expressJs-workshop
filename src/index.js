@@ -1,12 +1,19 @@
 const express = require('express');
-const config = require('./config');
-
-console.log("->>",process.env.node_env);
-
 const app = express();
 
+const config = require('./config');
+const setupViewEngine = require('./config/viewEngine');
+
+setupViewEngine(app);
+// this line does the same as the upper two lines
+// require('./config/viewEngine')(app);
+
+
 app.get('/', (req, res) => {
-    res.write("Homepage")
+    // res.send("Home page");
+    // layout doesn't have to be explicitly defined when using the default/main layout
+    // res.render('home', {layout: 'main'});
+    res.render('home', );
 });
 
 app.listen(config.PORT, () => console.log(`Server is running on port ${config.PORT}...`));
