@@ -8,6 +8,9 @@ setupViewEngine(app);
 // this line does the same as the upper two lines
 // require('./config/viewEngine')(app);
 
+// setup static assets
+app.use(express.static('./public'));
+
 
 app.get('/', (req, res) => {
     // res.send("Home page");
