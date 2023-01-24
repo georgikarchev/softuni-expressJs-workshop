@@ -1,0 +1,26 @@
+{
+  "name": "softuni-expressjs-workshop",
+  "version": "1.0.0",
+  "description": "A SoftUni course project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgikarchev/softuni-expressJs-workshop.git"
+  },
+  "keywords": [
+    "express.js"
+  ],
+  "author": "Georgi Karchev following SoftUni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgikarchev/softuni-expressJs-workshop/issues"
+  },
+  "homepage": "https://github.com/georgikarchev/softuni-expressJs-workshop#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
