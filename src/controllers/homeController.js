@@ -7,3 +7,8 @@ exports.getHomePage = (req, res) => {
 exports.getAboutPage = (req, res) => {
   res.render("about");
 };
+
+
+exports.get404 = (req, res) => {
+  res.render('404');
+};
