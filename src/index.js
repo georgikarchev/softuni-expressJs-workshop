@@ -12,6 +12,7 @@ setupViewEngine(app);
 
 // setup static assets
 app.use(express.static("./public"));
+app.use(express.urlencoded({extended: false})); // middleware to fetch POST/GET DATA
 app.use(routes); // we're using modular router
 
 // app.get("/", (req, res) => {

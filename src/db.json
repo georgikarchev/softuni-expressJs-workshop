@@ -1,0 +1,10 @@
+{
+  "cubes": [
+    {
+      "name": "cube 1",
+      "description": "desc 1",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.vP5UFn33QO8aN5y-Jhl7OgAAAA%26pid%3DApi&f=1&ipt=8d1f232afdbcaca7dff44a4e2c9229ac58b4f9b39e8d3aa57a10c57dd84cb246&ipo=images",
+      "difficultyLevel": "1"
+    }
+  ]
+}
